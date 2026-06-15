@@ -16,7 +16,7 @@ Please complete the assessment that matches the role you are applying for:
 Build a complete Client Project Tracker application with both frontend and backend functionality.
 
 ➡️ Full Stack Assessment:  
-/fullstack-developer-assessment
+[/fullstack-developer-assessment](https://github.com/koda-devteam-ops/fullstack-developer-assessment)
 
 ---
 
@@ -24,7 +24,7 @@ Build a complete Client Project Tracker application with both frontend and backe
 Build a responsive UI for a Client Project Tracker using provided mock data.
 
 ➡️ Frontend Assessment:  
-/frontend-developer-assessment
+[/frontend-developer-assessment](https://github.com/koda-devteam-ops/frontend-developer-assessment)
 
 ---
 
@@ -32,7 +32,7 @@ Build a responsive UI for a Client Project Tracker using provided mock data.
 Build a REST API for managing client projects, including validation and database integration.
 
 ➡️ Backend Assessment:  
-/backend-developer-assessment
+[/backend-developer-assessment](https://github.com/koda-devteam-ops/backend-developer-assessment)
 
 ---
 
@@ -40,7 +40,7 @@ Build a REST API for managing client projects, including validation and database
 Build a mobile application for managing client projects with core CRUD functionality.
 
 ➡️ Mobile Assessment:  
-/mobile-developer-assessment
+[/mobile-developer-assessment](https://github.com/koda-devteam-ops/mobile-developer-assessment)
 
 ---
 
