@@ -59,7 +59,7 @@ We are more interested in how you solve problems than in memorization of syntax.
 
 # Submission Process
 
-All submissions must be completed through the official application form.
+All submissions must be completed through the [official application form](https://forms.gle/fwNQ8dKRGE6g5jJs5).
 
 You will be required to provide:
 
